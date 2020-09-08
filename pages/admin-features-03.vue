@@ -9,7 +9,7 @@
           <button>Fetch</button>
         </div>
         <div class="col-md-6 mt-3">
-          <textarea class="w-100 p-2" rows="5" placeholder="[{ name: '', code: ''}]"></textarea>
+          <textarea class="w-100 p-2" rows="5" placeholder="[{ name: '', code: '' }]"></textarea>
         </div>
         <div class="col-md-6 mt-3">
           <textarea class="w-100 p-2" rows="5" placeholder="Results..."></textarea>
